@@ -106,10 +106,7 @@ The following is a tentative schedule. We may update it as we go.
 }
 </style> -->
 
-<div class="sch">
-
-
-|Week|Topic|Readings|Presentations|Homework|
+"|Week &nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;|Topic|Readings|Presentations|Homework|"
 |-|-|-| -|-|
 |1 - Jan 27|Welcome, Logistics|Overview Data Science <br> [Environment Setup](https://www.anaconda.com/) <br> [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)||TBD|
 |2 - Feb 3|Python Basics|||TBD|
@@ -127,9 +124,6 @@ The following is a tentative schedule. We may update it as we go.
 | 14 - Apr 28||||TBD|
 | 15 - May 5||||TBD|
 | 16 - May 12|Final Projects|||Group Presentations|
-
-
- </div>
 
 ## Course Policies
 
