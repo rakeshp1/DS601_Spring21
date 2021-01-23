@@ -108,24 +108,26 @@ The following is a tentative schedule. We may update it as we go.
 
 <div class="sch">
 
+
 |Week|Topic|Readings|Presentations|Homework|
 |-|-|-| -|-|
-|week 1: <br>Jan 27|Welcome, Logistics|Overview Data Science <br> [Environment Setup](https://www.anaconda.com/) <br> [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)||TBD|
-|week 2: <br>Feb 3|Python Basics|||TBD|
-|week 3:<br>Feb 10|Data Formats|||TBD|
-|week 4:<br>Feb 17|Acquiring and Storing Data|||TBD|
-|week 5:<br>Feb 24|Data Cleanup part-I|||TBD|
-|week 6: <br> Mar 3|Data Cleanup Part-II|||TBD|
-|week 7: <br> Mar 10|Data Exploration and Analysis|||TBD|
-|week 8: <br> Mar 17|Spring Break|No Class||TBD|
-|week 9: <br> Mar 24|Data Exploration and Analysis Part-II|||TBD|
-|week 10: <br> Mar 31|Presenting Your Data|||TBD|
-|week 11: <br> Apr 7|Web scraping|||TBD|
-|week 12: <br> Apr 14|API's|||TBD|
-|week 13: <br> Apr 21|Automation and Scaling|||TBD|
-|week 14: <br> Apr 28||||TBD|
-|week 15: <br> May 5||||TBD|
-|week 16: <br> May 12|Final Projects|||Group Presentations|
+|1 - Jan 27|Welcome, Logistics|Overview Data Science <br> [Environment Setup](https://www.anaconda.com/) <br> [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)||TBD|
+|2 - Feb 3|Python Basics|||TBD|
+| 3 - Feb 10|Data Formats|||TBD|
+| 4 - Feb 17|Acquiring and Storing Data|||TBD|
+| 5 - Feb 24|Data Cleanup part-I|||TBD|
+| 6 - Mar 3|Data Cleanup Part-II|||TBD|
+| 7 - Mar 10|Data Exploration and Analysis|||TBD|
+| 8 - Mar 17|Spring Break|No Class||TBD|
+| 9 - Mar 24|Data Exploration and Analysis Part-II|||TBD|
+| 10 - Mar 31|Presenting Your Data|||TBD|
+| 11 - Apr 7|Web scraping|||TBD|
+| 12 - Apr 14|API's|||TBD|
+| 13 - Apr 21|Automation and Scaling|||TBD|
+| 14 - Apr 28||||TBD|
+| 15 - May 5||||TBD|
+| 16 - May 12|Final Projects|||Group Presentations|
+
 
  </div>
 
