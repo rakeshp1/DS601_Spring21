@@ -64,11 +64,11 @@ Homework assignment will be mostly due Sunday and it will have +5 point insentiv
 
 ## Course Work
 
-<style>
+<!-- <style>
 .cw table th:first-of-type {
     width: 50%;
 } 
-</style>
+</style> -->
 
 <div class="cw">
 
@@ -100,11 +100,11 @@ Homework assignment will be mostly due Sunday and it will have +5 point insentiv
 
 The following is a tentative schedule. We may update it as we go.
 
-<style>
+<!-- <style>
 .sch table th:first-of-type {
     width: 10%;
 }
-</style>
+</style> -->
 
 <div class="sch">
 
