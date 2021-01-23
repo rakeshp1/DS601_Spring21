@@ -106,7 +106,8 @@ The following is a tentative schedule. We may update it as we go.
 }
 </style> -->
 
-|Week &nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;|Topic|Readings|Presentations|Homework|"
+
+|Week &nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;|Topic|Readings|Presentations|Homework|
 |-|-|-| -|-|
 |1 - Jan 27|Welcome, Logistics|Overview Data Science <br> [Environment Setup](https://www.anaconda.com/) <br> [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)||TBD|
 |2 - Feb 3|Python Basics|||TBD|
